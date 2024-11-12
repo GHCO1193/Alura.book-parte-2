@@ -1,0 +1,26 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodapé.css");
+
+:root {
+    --cor-de-fundo: #bca38e; /* Marrom pastel claro para o fundo */
+    --branco: #c8b29f; /* Marrom claro suave */
+    --laranja: #583822; /* Marrom suave com toque de bege */
+    --azul-degrade: linear-gradient(97.54deg, #654c2f 35.49%, #654c2f 165.37%); /* Gradiente suave em tons de marrom claro */
+    --fonte-principal: "Poppins";
+    --azul: #0e0808; /* Branco (sem alteração) */
+    --fonte-secundario: "Josefin Sans";
+    --preto: #000000; /* Marrom escuro para contraste */
+    --cinza: #000000; /* Marrom escuro mais suave */
+    --cinza-claro: #000000; /* Marrom claro com toque suave */
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
