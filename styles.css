@@ -14,8 +14,8 @@
     --azul: #0e0808; /* Branco (sem alteração) */
     --fonte-secundario: "Josefin Sans";
     --preto: #000000; /* Marrom escuro para contraste */
-    --cinza: #000000; /* Marrom escuro mais suave */
-    --cinza-claro: #000000; /* Marrom claro com toque suave */
+    --cinza: #dcd2d2b4; /* Marrom escuro mais suave */
+    --cinza-claro: #dcd2d2b4 /* Marrom claro com toque suave */
 }
 
 body {
